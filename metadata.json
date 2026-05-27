@@ -1,0 +1,6 @@
+{
+  "name": "Audio para MIDI Studio",
+  "description": "Converta gravações de áudio e arquivos MP3 em arquivos MIDI (.mid) profissionais e limpos para aulas de teclado, com visualização em Piano Roll, quantização e sintetizador integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
